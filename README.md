@@ -3,6 +3,7 @@ This uses FFDEC to extract all the shapes inside SWF files, randomize them and t
 
 # Usage
 `swfCorruptor.vbs <input_swf>`
+
 If you add `--overwrite` it will overwrite the input swf, otherwise it will output a swf in the same directory with -corrupted added to the end of the filename
 
 # TODO
